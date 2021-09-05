@@ -3,7 +3,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item android:title="Rent a Car"
-        android:icon="@drawable/ic_car"
+        android:icon="@drawable/ic_racing"
         app:showAsAction="always"/>
     <item android:title="Bookings"
         android:icon="@drawable/ic_booking"
